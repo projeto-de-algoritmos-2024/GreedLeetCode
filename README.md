@@ -1,45 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Questions LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 36<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0098683 |  BRENO YURI BARBOSA GOMES |
+| 21/1063176  |  JOYCE DIONIZIO DE MESQUITA |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Esse projeto tem o objetivo de realizar problemas de média e alta complexidade no juíz LeetCode. Os exercícios serão resolvidos com base no conteúdo do conteúdo Greed.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Apresentação
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[Link da Apresentação](https://www.youtube.com/embed/lB6kVdxrcDY?si=7HjDBkAeTRawL3qt)
 
 
+#### [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+**Dificuldade:** Hard  
+**Descrição:** O código usa o algoritmo de Dijkstra para encontrar o custo mínimo para corrigir as direções das células e criar um caminho válido na grade, começando de (0, 0) até (m-1, n-1).  
+![Imagem](assets/img/1368_submission.jpeg)
+
+#### [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+**Dificuldade:** Medium  
+**Descrição:** O código usa o algoritmo de Prim para calcular o custo mínimo necessário para conectar todos os pontos. Começando do ponto 0, ele adiciona o ponto mais próximo não visitado à árvore geradora mínima (MST), usando uma fila de prioridade para escolher o próximo ponto com o menor custo. O processo continua até todos os pontos estarem conectados, retornando o custo total.  
+![Imagem](assets/img/1584_submission.png)
+
+#### [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/?envType=problem-list-v2&envId=graph&difficulty=HARD)
+**Dificuldade:** Hard  
+**Descrição:** O código usa um algoritmo de Dijkstra para encontrar o custo mínimo de viajar de uma cidade inicial à final dentro de um tempo máximo, considerando taxas de passagem e tempo de viagem. Ele explora as cidades usando uma fila de prioridade, atualizando o custo total e o tempo a cada passo, e retorna o custo mínimo ou -1 se não for possível dentro do limite de tempo.  
+![Imagem](assets/img/1928_submission.png)
 
 
+
+**Linguagem**: Python<br>
