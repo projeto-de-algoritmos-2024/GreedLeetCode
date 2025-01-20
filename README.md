@@ -20,7 +20,7 @@ Esse projeto tem o objetivo de realizar problemas de média e alta complexidade 
 #### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 **Dificuldade:** Medium  
 **Descrição:** O problema requer encontrar o número mínimo de saltos para alcançar o último índice de um array, dado que cada elemento do array indica o máximo de posições que você pode saltar para frente a partir desse índice. Para resolver este problema, usamos algoritmos ambiciosos.  
-![Imagem](assets/img/45_submission.jpeg)
+![Imagem](assets/img/45_submission.png)
 
 #### [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 **Dificuldade:** Hard  
