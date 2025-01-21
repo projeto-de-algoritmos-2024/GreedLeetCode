@@ -14,7 +14,7 @@ Esse projeto tem o objetivo de realizar problemas de média e alta complexidade 
 
 ## Apresentação
 
-[Link da Apresentação](https://www.youtube.com/embed/lB6kVdxrcDY?si=7HjDBkAeTRawL3qt)
+[Link da Apresentação](https://youtu.be/eyNwRH6JCaE?si=Ej7suchYXv4DhQ13)
 
 
 #### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
